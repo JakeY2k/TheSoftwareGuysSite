@@ -1,0 +1,170 @@
+
+
+
+
+
+html, body {
+    width: 1500px;
+    margin: 0 auto;
+    padding: 0;
+    font: 100%;
+    background-color: dimgray;
+}
+
+
+
+li {
+  float: left;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+
+
+
+article h1 {
+	padding:1em;
+	border-left:1em solid #333;
+    font-family: monospace;
+    font-size: 70;
+}
+
+article h2 {
+	padding:1.5em;
+	border-left:1.5em solid #333;
+    font-family: monospace;
+}
+
+
+
+article h3 {
+	padding:1.5em;
+	border-left:1.5em solid #333;
+    font-family: monospace;
+}
+
+article h4 {
+	padding:1.5em;
+	border-left:1.5em solid #333;    
+}
+
+article h5 {
+    
+    position: absolute;
+right: 80%;
+}
+
+
+h2 {
+    
+    
+}
+
+logon {
+    
+   width: 1000px; 
+    
+}
+
+
+.login {
+    width: 1000px;  
+    
+}
+
+
+
+.club {
+    width:300px;
+    
+    vertical-align:top;
+}
+
+footer {
+    
+   
+    background-color: darkslategrey;
+}
+
+@media print {
+    
+    td {
+    
+    background-color: green 768px;
+        
+        
+}
+
+    div.block {
+        
+        float: left;
+    }
+
+
+@media print {
+    
+    td {
+    
+    background-color: red 576px;
+}
+
+
+
+@media print {
+    
+    td {
+    
+    background-color: blue 320px;
+}
+
+@media print {
+    
+    body {
+        
+ font: 100%
+     
+    }
+    
+    
+    fence {
+        position: static
+
+    }
+    
+.block {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  background-color: lightgray;
+}
+
+.container {
+  
+}
+
+.block img {
+ width: 100px;
+ height: 100px;
+} 
+
+    
+@import "style.sass";
+    
+    
+    img1 {
+position: absolute;
+right: 60%;  
+        
+        
+    }
+    
+    @media only screen (min-width: 768px){
+@media only screen and (max-width: 600px)
+
+
+}
+    
+  
